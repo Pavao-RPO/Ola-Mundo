@@ -3,4 +3,4 @@
 
 Código adicionado no VSCODE
 
-Codigo alterado remotamente.
+Codigo alterado remotamente...
